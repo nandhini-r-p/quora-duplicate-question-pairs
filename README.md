@@ -1,4 +1,4 @@
-Quora Duplicate Question Pairs
+#Quora Duplicate Question Pairs
 
 Project Overview
 This project aims to determine whether two questions are semantically identical using Natural Language Processing (NLP) techniques. The primary objective is to identify duplicate questions in the Quora dataset. The project leverages a Bag of Words model and is implemented using Jupyter Notebook and Streamlit for interactive visualization.
